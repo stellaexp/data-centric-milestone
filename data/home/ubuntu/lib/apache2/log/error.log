@@ -1,0 +1,25 @@
+[Sat Feb 09 16:08:53.260659 2019] [mpm_prefork:notice] [pid 33755] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Sat Feb 09 16:08:53.260742 2019] [core:notice] [pid 33755] AH00094: Command line: 'apache2'
+[Sat Feb 09 16:10:27.931795 2019] [core:info] [pid 33764] [client 10.240.0.88:53612] AH00128: File does not exist: /home/ubuntu/workspace/templates/{{url_for('static', filename='css/style.css')}}, referer: https://data-centric-milestone-stellaexp.c9users.io/templates/base.html
+[Sat Feb 09 16:11:04.696460 2019] [mpm_prefork:notice] [pid 33755] AH00169: caught SIGTERM, shutting down
+[Sat Feb 09 16:11:06.498437 2019] [mpm_prefork:notice] [pid 35729] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Sat Feb 09 16:11:06.498516 2019] [core:notice] [pid 35729] AH00094: Command line: 'apache2'
+[Sat Feb 09 16:20:18.497136 2019] [core:info] [pid 35740] [client 10.240.0.103:55876] AH00128: File does not exist: /home/ubuntu/workspace/add_recipe
+[Sat Feb 09 16:20:21.945402 2019] [core:info] [pid 35736] [client 10.240.0.87:57022] AH00128: File does not exist: /home/ubuntu/workspace/addrecipe
+[Sat Feb 09 16:29:44.659648 2019] [core:info] [pid 35737] [client 10.240.0.88:38310] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://data-centric-milestone-stellaexp.c9users.io/
+[Tue Feb 12 11:12:35.204094 2019] [core:warn] [pid 3147] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 12 11:12:35.303305 2019] [mpm_prefork:notice] [pid 3147] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Tue Feb 12 11:12:35.303369 2019] [core:notice] [pid 3147] AH00094: Command line: 'apache2'
+[Tue Feb 12 11:12:41.605036 2019] [core:info] [pid 3213] [client 10.240.1.97:41918] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://data-centric-milestone-stellaexp.c9users.io/
+[Sun Feb 17 13:09:18.210457 2019] [core:warn] [pid 6442] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Feb 17 13:09:18.215786 2019] [mpm_prefork:notice] [pid 6442] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Sun Feb 17 13:09:18.215846 2019] [core:notice] [pid 6442] AH00094: Command line: 'apache2'
+[Sun Feb 17 13:09:18.458668 2019] [core:info] [pid 6456] [client 10.240.0.185:58902] AH00128: File does not exist: /home/ubuntu/workspace/templates/{{url_for('static', filename='css/style.css')}}, referer: https://data-centric-milestone-stellaexp.c9users.io/templates/base.html
+[Sun Feb 17 13:09:27.221822 2019] [core:info] [pid 6457] [client 10.240.0.227:32850] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico
+[Sun Feb 17 13:14:27.407076 2019] [core:info] [pid 6455] [client 10.240.0.171:56870] AH00128: File does not exist: /home/ubuntu/workspace/update_recipe/5c6185d32ec91d1edd8d87cb
+[Sun Feb 17 13:49:36.915998 2019] [core:info] [pid 6457] [client 10.240.1.21:59770] AH00128: File does not exist: /home/ubuntu/workspace/robots.txt
+[Sun Feb 17 14:16:48.309713 2019] [core:info] [pid 6459] [client 10.240.0.185:55892] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico
+[Wed Feb 27 14:04:13.916532 2019] [core:warn] [pid 2738] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 27 14:04:13.925204 2019] [mpm_prefork:notice] [pid 2738] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Wed Feb 27 14:04:13.925269 2019] [core:notice] [pid 2738] AH00094: Command line: 'apache2'
+[Wed Feb 27 14:04:22.536038 2019] [core:info] [pid 2760] [client 10.240.0.222:36968] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://data-centric-milestone-stellaexp.c9users.io/

@@ -1,0 +1,12 @@
+{
+  "name": "data-centric-milestone",
+  "id": "6739206",
+  "description": "",
+  "gitUrl": "",
+  "workspaceType": "default",
+  "dockerBaseImage": "cloud9/ws-default:2017-08-31T12-15-07Z",
+  "owner": {
+    "name": "stellaexp",
+    "id": "2014787"
+  }
+}

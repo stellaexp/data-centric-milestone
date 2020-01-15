@@ -1,0 +1,82 @@
+[2017-08-31T12:55:48+00:00] starting `/usr/local/heroku/bin/heroku update --autoupdate` from --help
+[2019-02-08T14:17:17+00:00] starting `/usr/local/heroku/bin/heroku update --autoupdate` from login
+[2019-02-08T14:17:18+00:00] heroku-cli: Updating CLI...
+[2019-02-08T14:17:18+00:00] heroku-cli: Updating CLI from 6.14.4-d011db2 to 6.99.0-ec9edad... done
+waiting until 2019-02-08T15:17:17.917Z to update
+waiting until 2019-02-08T15:17:17.917Z to update
+waiting until 2019-02-08T15:17:17.917Z to update
+waiting until 2019-02-08T15:17:17.917Z to update
+waiting until 2019-02-08T15:17:17.917Z to update
+waiting until 2019-02-08T15:17:17.917Z to update
+waiting until 2019-02-08T15:17:17.917Z to update
+waiting until 2019-02-08T15:17:17.917Z to update
+waiting until 2019-02-08T15:17:17.917Z to update
+waiting until 2019-02-08T15:17:17.917Z to update
+waiting until 2019-02-08T15:17:17.917Z to update
+waiting until 2019-02-08T15:17:17.917Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+waiting until 2019-02-08T15:29:00.000Z to update
+time to update
+heroku-cli: Updating CLI...
+heroku-cli: Updating CLI from 6.99.0-ec9edad to 7.20.1... done
+heroku: Updating CLI... already on latest version: 7.20.1
+Updating completions...
+Updating completions... done
